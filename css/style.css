@@ -3,12 +3,12 @@ body {
 
 h1 {
   color: blue;
-  font-size: 3px; 
+  font-size: 3px;
 }
 
 h2 {
   color: green;
-  font-weight: normal
+  font-weight: normal;
   font-style: italic;
 }
 
@@ -16,7 +16,7 @@ h2 {
   font-family: arial;
 }
 
-#tasks .completed
+#tasks .completed {
   backgound: #ccc;
   text-decoration: underline;
 }
